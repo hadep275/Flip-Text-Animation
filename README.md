@@ -1,6 +1,6 @@
 # Text Animation Demo
 
-Welcome to the Text Animation Demo! This simple web page showcases a text animation that dynamically flips through different words, creating a visually appealing effect. You can check out the live demo [here](#) (insert your demo link).
+Welcome to the Text Animation Demo! This simple web page showcases a text animation that dynamically flips through different words, creating a visually appealing effect. You can check out the live demo [here](https://hadep275.github.io/Flip-Text-Animation/).
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -29,7 +29,9 @@ git clone https://github.com/your-username/text-animation-demo.git
 2. Explore and enjoy the captivating text animation.
 
 ## Video Demo
-[![Text Animation Demo](insert_your_video_thumbnail_link_here)](insert_your_video_demo_link_here)
+[![Text Animation Demo](https://github.com/hadep275/Flip-Text-Animation/assets/65734173/f4fe38fb-2734-4eb9-9578-63d19da3eaf5)
+
+
 
 Watch the video demo for a quick overview of the text animation in action. Click on the thumbnail above to view the full video.
 
