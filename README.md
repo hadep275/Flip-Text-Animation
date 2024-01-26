@@ -29,7 +29,9 @@ git clone https://github.com/your-username/text-animation-demo.git
 2. Explore and enjoy the captivating text animation.
 
 ## Video Demo
-[![Text Animation Demo](https://github.com/hadep275/Flip-Text-Animation/assets/65734173/f4fe38fb-2734-4eb9-9578-63d19da3eaf5)
+[![Text Animation Demo]
+
+[Text Animation Demo](https://github.com/hadep275/Flip-Text-Animation/assets/65734173/4e0fe1b8-6f4f-4331-bf74-2ee8887b289f)
 
 
 
